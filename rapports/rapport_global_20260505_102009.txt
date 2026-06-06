@@ -1,0 +1,22 @@
+==================================================
+       RAPPORT GLOBAL ENTREPRISE
+==================================================
+
+── STATISTIQUES GÉNÉRALES ────────────────────
+  Nombre total d'employés     : 12
+  Total heures travaillées    : 1844.00 h
+  Salaire moyen               : 4250.50 €
+  Salaire minimum             : 2835.00 €
+  Salaire maximum             : 7700.00 €
+  Total primes versées        : 2410.00 €
+
+── EMPLOYÉS REMARQUABLES ─────────────────────
+  Salaire le plus élevé  : Alice Martin (7700.00 €)
+  Salaire le plus faible : Julie Petit (2835.00 €)
+
+── RÉPARTITION PAR STATUT ────────────────────
+  Temps partiel           : 3 employé(s)
+  Temps plein             : 4 employé(s)
+  Heures supplémentaires  : 5 employé(s)
+
+==================================================

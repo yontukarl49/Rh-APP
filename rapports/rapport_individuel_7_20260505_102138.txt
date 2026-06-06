@@ -1,0 +1,24 @@
+==================================================
+       RAPPORT INDIVIDUEL
+==================================================
+
+── IDENTITÉ ──────────────────────────────────
+  Nom           : Laurent
+  Prénom        : Emma
+  Équipe        : Marketing
+  Identifiant   : 7
+  Rôle          : Employe
+
+── DONNÉES DU MOIS ───────────────────────────
+  Heures travaillées : 140.00 h
+  Taux horaire       : 20.00 €/h
+  Prime              : 100.00 €
+
+── CALCULS ───────────────────────────────────
+  Salaire brut        : 2900.00 €
+  Salaire horaire réel: 20.71 €/h
+
+── STATUT ────────────────────────────────────
+  Temps partiel
+
+==================================================

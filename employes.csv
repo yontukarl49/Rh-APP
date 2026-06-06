@@ -1,0 +1,13 @@
+id,nom,prenom,role,equipe,heures_travaillees,taux_horaire,prime
+1,Martin,Alice,directeur,Direction,160,45.0,500
+2,Dupont,Jean,manager,Développement,155,35.0,300
+3,Bernard,Sophie,employe,Développement,148,22.0,150
+4,Leroy,Marc,employe,Développement,162,24.0,200
+5,Moreau,Claire,employe,Développement,155,23.0,180
+6,Simon,Paul,manager,Marketing,158,33.0,280
+7,Laurent,Emma,employe,Marketing,140,20.0,100
+8,Michel,Lucas,employe,Marketing,153,21.0,120
+9,Garcia,Léa,employe,Marketing,160,22.5,150
+10,David,Thomas,manager,RH,152,30.0,250
+11,Petit,Julie,employe,RH,145,19.0,80
+12,Robert,Nicolas,employe,RH,156,20.0,100
